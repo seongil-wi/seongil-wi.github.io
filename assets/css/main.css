@@ -1765,6 +1765,28 @@ input, select, textarea {
 			padding-left: 0.25em;
 		}
 
+/* Awards */
+
+	.internet-defense-prize {
+		display: inline-block;
+		max-width: 100%;
+		margin-top: 0.35em;
+		padding: 0.18em 0.7em;
+		border-radius: 0.35em;
+		background-color: #69bfc2;
+		color: #fff;
+		font-weight: 400;
+		font-style: italic;
+		line-height: 1.5em;
+		text-shadow: none;
+		box-shadow: 0 2px 8px rgba(105, 191, 194, 0.28);
+	}
+
+		.internet-defense-prize .fa-trophy {
+			color: #fff;
+			margin-right: 0.45em;
+		}
+
 /* Social */
 
 	ul.social {
