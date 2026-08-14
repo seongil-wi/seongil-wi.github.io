@@ -1784,7 +1784,31 @@ input, select, textarea {
 
 		.internet-defense-prize .fa-trophy {
 			color: #fff;
-			margin-right: 0.45em;
+		}
+
+	.websec-lab-badge {
+		display: inline-block;
+		margin-left: 0.08em;
+		padding: 0.02em 0.48em 0.08em 0.48em;
+		border: 0;
+		border-radius: 0.24em;
+		background: #69bfc2;
+		color: #fff !important;
+		font-weight: 700;
+		line-height: 1.25em;
+		text-decoration: none;
+		text-shadow: none;
+		vertical-align: 0.02em;
+		box-shadow: 0 2px 6px rgba(105, 191, 194, 0.24);
+	}
+
+	.leading-websec-lab {
+		white-space: nowrap;
+	}
+
+		.websec-lab-badge:hover {
+			background: #55adb1;
+			color: #fff !important;
 		}
 
 /* Social */
